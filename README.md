@@ -7,6 +7,8 @@ Markdown, in comparison to HTML, is much simpler to read and write.  The average
 
 Specifically, Visual Studio Code uses the [CommonMark](http://commonmark.org/) Markdown specification.
 
+Easy to use with VS Code and Github
+
 ## Sections
 - [Headers](#headers)
 - [Quotes](#quotes)
